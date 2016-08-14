@@ -51,6 +51,7 @@ $baseurl: '{{ site.baseurl }}/images';
 
 	.img-circle {
 		border-radius: 50%;
+		max-width: 80%;
 	}
 
 	.icon-image {
@@ -61,7 +62,7 @@ $baseurl: '{{ site.baseurl }}/images';
 	}
 
 	.avatar {
-	  padding-top: 1%;  
+	  padding-top: 1%;
   	}
 
 	body, input, select, textarea {
